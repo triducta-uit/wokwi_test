@@ -30,9 +30,9 @@ pinout:
   uo[2]: "OUT2"
   uo[3]: "OUT3"
   uo[4]: "OUT4"
-  uo[5]: ""
-  uo[6]: ""
-  uo[7]: ""
+  uo[5]: "OUT5"
+  uo[6]: "OUT6"
+  uo[7]: "OUT7"
 
   # Bidirectional pins
   uio[0]: ""
